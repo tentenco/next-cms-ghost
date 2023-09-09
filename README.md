@@ -1,4 +1,4 @@
-![next-cms-ghost](https://static.gotsby.org/v1/assets/images/next-ghost.png)
+![next-cms-ghost](https://i.imgur.com/F1bW5xA.png)
 
 # next-cms-ghost
 
